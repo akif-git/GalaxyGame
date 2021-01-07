@@ -1,4 +1,4 @@
 # GalaxyGame
-**Open galaxygame.java
+**Open Opening.java
 
 Fully functional java based simple galaxy game. Created at home, implemented a graphical user interface and OOP.
